@@ -1,4 +1,4 @@
-- 👋
+
 -![linkedin cover](https://github.com/user-attachments/assets/c57168c7-527f-43d2-9d5c-c23cb3e674eb)
 
 -
@@ -7,7 +7,7 @@
 -
 -
 -
--     Hi, I’m @kirankumarn07
+-  Hi, I’m @kirankumarn07
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
