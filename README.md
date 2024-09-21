@@ -17,9 +17,10 @@ Recent Projects:
  
 I am looking for opportunities where I can leverage my skills and grow further in the MERN stack ecosystem. If you know of any openings or can connect me with someone who might be hiring, I would greatly appreciate your help.
 
+- CONNECT Me WITH www.linkedin.com/in/nagakirankumar-nakkala-438936166
 -
--
--
+-Languages and Tools:
+aws bootstrap css3 express html5 javascript mongodb mysql nodejs postman react tailwind
 -
 -
 
